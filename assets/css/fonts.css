@@ -1,0 +1,9 @@
+
+
+@font-face {
+	font-family: 'HKNova';
+	src: url('../fonts/HKNova.eot');
+	src: url('../fonts/HKNova.woff') format('woff'), url('../fonts/HKNova.ttf') format('truetype'), url('../fonts/HKNova.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
